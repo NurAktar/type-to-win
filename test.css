@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container{
+    width:1200px;
+    height: 600px;
+    background-color: #d7eafa;
+}
+.car{
+    position: absolute;
+    left:0;
+    top:0;
+    width:200px;
+    height: 200px;
+    background-image: url("/205.png");
+    background-size: cover;
+}
